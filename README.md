@@ -12,13 +12,18 @@
 I'm a web developer mostly working in JS ecosystem.
 
 My blog about web development: JavaScript Room
+
 Web: https://roomjs.com
+
 Instagram: https://www.instagram.com/room_js
+
 YouTube: https://www.youtube.com/c/JavaScriptRoom
+
 Telegram: https://t.me/room_js
+
 Twitter: https://twitter.com/room_js
+
 Facebook: https://www.facebook.com/roomjs
-Support project: http://support.roomjs.com/
 
 <!--
 **yurist38/yurist38** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
