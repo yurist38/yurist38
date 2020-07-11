@@ -11,7 +11,7 @@
 
 I'm a web developer mostly working in JS ecosystem.
 
-My blog about web development: JavaScript Room
+My blog about web development: **JavaScript Room**
 
 Web: https://roomjs.com
 
