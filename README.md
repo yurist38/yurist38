@@ -1,17 +1,15 @@
-```
-      _   ___     ___    ____   ____ ____  ___ ____ _____   ____   ___   ____ _  ______  
-     | | / \ \   / / \  / ___| / ___|  _ \|_ _|  _ \_   _| |  _ \ / _ \ / ___| |/ / ___| 
-  _  | |/ _ \ \ / / _ \ \___ \| |   | |_) || || |_) || |   | |_) | | | | |   | ' /\___ \ 
- | |_| / ___ \ V / ___ \ ___) | |___|  _ < | ||  __/ | |   |  _ <| |_| | |___| . \ ___) |
-  \___/_/   \_\_/_/   \_\____/ \____|_| \_\___|_|    |_|   |_| \_\\___/ \____|_|\_\____/
-
-```
+![JavaScript Room](https://assets.codepen.io/1541696/v2-text-bg-1000x250.png)
 
 ### Hi there 👋
 
-I'm a web developer mostly working in JS ecosystem.
+I'm a full-stack web developer with a solid frontend background. I recently switched to DevOps field and currently work as a cloud engineer.
 
-My blog about web development: **JavaScript Room**
+## Contact me
+
+[![Email me](https://img.shields.io/badge/EMAIL-ME-red.svg?style=for-the-badge&logo=gmail)](mailto:yuri@roomjs.com)
+[![LinkedIn](https://img.shields.io/badge/LINKED-IN-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yurist38/)
+
+## JavaScript Room - my blog about web development
 
 Web: https://roomjs.com
 
@@ -25,17 +23,4 @@ Twitter: https://twitter.com/room_js
 
 Facebook: https://www.facebook.com/roomjs
 
-<!--
-**yurist38/yurist38** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Check it out](https://forthebadge.com/images/badges/check-it-out.svg)](https://roomjs.com)
