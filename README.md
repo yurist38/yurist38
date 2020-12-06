@@ -4,6 +4,8 @@
 
 I'm a full-stack web developer with a solid frontend background. I recently switched to DevOps field and currently work as a cloud engineer.
 
+![Yuri's github stats](https://github-readme-stats.vercel.app/api?username=yurist38&show_icons=true&theme=onedark)
+
 ## Contact me
 
 [![Email me](https://img.shields.io/badge/EMAIL-ME-red.svg?style=for-the-badge&logo=gmail)](mailto:yuri@roomjs.com)
