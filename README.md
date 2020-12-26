@@ -1,5 +1,3 @@
-![JavaScript Room](https://assets.codepen.io/1541696/v2-text-bg-1000x250.png)
-
 ### Hi there 👋
 
 I'm a full-stack web developer with a solid frontend background. I recently switched to DevOps field and currently work as a cloud engineer.
@@ -11,18 +9,22 @@ I'm a full-stack web developer with a solid frontend background. I recently swit
 [![Email me](https://img.shields.io/badge/EMAIL-ME-red.svg?style=for-the-badge&logo=gmail)](mailto:yuri@roomjs.com)
 [![LinkedIn](https://img.shields.io/badge/LINKED-IN-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yurist38/)
 
-## JavaScript Room - my blog about web development
+## Some of my projects
 
-Web: https://roomjs.com
+### LinkedIn Video Downloader - Google Chrome extension
 
-Instagram: https://www.instagram.com/room_js
+* [Chrome Web Store](https://chrome.google.com/webstore/detail/linkedin-video-downloader/jphfcmjmlcoecehbanbbfgonpapcnjdi)
+* [Github](https://github.com/yurist38/linkedin-video-downloader)
 
-YouTube: https://www.youtube.com/c/JavaScriptRoom
+### JavaScript Room - blog about web development
 
-Telegram: https://t.me/room_js
-
-Twitter: https://twitter.com/room_js
-
-Facebook: https://www.facebook.com/roomjs
+* [Website](https://roomjs.com)
+* [Instagram](https://www.instagram.com/room_js)
+* [YouTube](https://www.youtube.com/c/JavaScriptRoom)
+* [Telegram](https://t.me/room_js)
+* [Codepen](https://codepen.io/room_js)
+* [GitHub](https://github.com/room-js)
+* [Twitter](https://twitter.com/room_js)
+* [Facebook](https://www.facebook.com/roomjs)
 
 [![Check it out](https://forthebadge.com/images/badges/check-it-out.svg)](https://roomjs.com)
