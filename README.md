@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-I'm a full-stack web developer with a solid frontend background. I recently switched to DevOps field and currently work as a cloud engineer.
+I'm a full-stack web developer and cloud engineer.
 
 ![Yuri's github stats](https://github-readme-stats.vercel.app/api?username=yurist38&show_icons=true&theme=onedark)
+![Yuri's github activity graph](https://activity-graph.herokuapp.com/graph?username=yurist38&theme=github)
+
 
 ## Contact me
 
