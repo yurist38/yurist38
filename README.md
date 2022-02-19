@@ -8,7 +8,7 @@ I'm a full-stack web developer and cloud engineer.
 
 ## Contact me
 
-[![Email me](https://img.shields.io/badge/EMAIL-ME-red.svg?style=for-the-badge&logo=gmail)](mailto:yuri@roomjs.com)
+[![Email me](https://img.shields.io/badge/EMAIL-ME-red.svg?style=for-the-badge&logo=gmail)](mailto:yuri@drabik.digital)
 [![LinkedIn](https://img.shields.io/badge/LINKED-IN-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yurist38/)
 
 ## Some of my projects
