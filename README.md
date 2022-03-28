@@ -15,7 +15,6 @@ I'm a full-stack web developer and cloud engineer.
 
 ### LinkedIn Video Downloader - Google Chrome extension
 
-* [Chrome Web Store](https://chrome.google.com/webstore/detail/linkedin-video-downloader/jphfcmjmlcoecehbanbbfgonpapcnjdi)
 * [Github](https://github.com/yurist38/linkedin-video-downloader)
 
 ### JavaScript Room - blog about web development
