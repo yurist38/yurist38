@@ -9,9 +9,8 @@ I'm a full-stack web developer and cloud engineer.
 
 ## Some of my projects
 
-### LinkedIn Video Downloader - Google Chrome extension
-
-* [Github](https://github.com/yurist38/linkedin-video-downloader)
+* [Investorean](https://investorean.com) - Stock screener and analytical tool for different brokers
+* [LinkedIn Video Downloader](https://github.com/yurist38/linkedin-video-downloader) - Google Chrome extension
 
 ### JavaScript Room - blog about web development
 
