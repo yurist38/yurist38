@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a full-stack web developer and cloud engineer.
+I'm a full-stack web engineer and tech entrepreneur
 
 ## Contact me
 
