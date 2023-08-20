@@ -12,7 +12,7 @@ I'm a full-stack web engineer and tech entrepreneur
 * [Investorean](https://investorean.com) - Stock screener and analytical tool for different brokers
 * [LinkedIn Video Downloader](https://github.com/yurist38/linkedin-video-downloader) - Google Chrome extension
 
-### JavaScript Room - blog about web development
+### JavaScript Room - a blog about web development
 
 * [Website](https://roomjs.com)
 * [Instagram](https://www.instagram.com/room_js)
@@ -23,4 +23,3 @@ I'm a full-stack web engineer and tech entrepreneur
 * [Twitter](https://twitter.com/room_js)
 * [Facebook](https://www.facebook.com/roomjs)
 
-[![Check it out](https://forthebadge.com/images/badges/check-it-out.svg)](https://roomjs.com)
