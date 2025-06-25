@@ -9,7 +9,7 @@ I'm a full-stack web engineer and tech entrepreneur
 
 ## Some of my projects
 
-* [Investorean](https://investorean.com) - Stock screener and analytical tool for different brokers
+* [Investorean](https://investorean.com) - Capital Markets Analytics and Research Platform
 * [LinkedIn Video Downloader](https://github.com/yurist38/linkedin-video-downloader) - Google Chrome extension
 
 ### JavaScript Room - a blog about web development
