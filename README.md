@@ -10,6 +10,7 @@ I'm a full-stack web engineer and tech entrepreneur
 ## Some of my projects
 
 * [Investorean](https://investorean.com) - Capital Markets Analytics and Research Platform
+* [GitHub PR Copilot Comments Enhancer](https://github.com/room-js/github-copilot-comment-browser-extension) - Browser Extension (Chrome & Firefox)
 * [LinkedIn Video Downloader](https://github.com/yurist38/linkedin-video-downloader) - Google Chrome extension
 
 ### JavaScript Room - a blog about web development
